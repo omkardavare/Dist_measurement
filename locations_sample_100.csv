@@ -1,0 +1,101 @@
+state_code,state_name,district_code,district_name,taluka_code,taluka_name,village_code,village_name,latitude,longitude
+1,Andhra Pradesh,1,Anantpur,1,Taluka1,1,VillageA,21.546791,81.830012
+1,Andhra Pradesh,1,Anantpur,1,Taluka1,2,VillageB,24.600019,81.251223
+1,Andhra Pradesh,1,Anantpur,1,Taluka1,3,VillageC,22.108063,81.452652
+1,Andhra Pradesh,1,Anantpur,1,Taluka1,4,VillageD,16.243248,74.967372
+1,Andhra Pradesh,1,Anantpur,2,Taluka2,1,VillageA,22.806285,83.748133
+1,Andhra Pradesh,1,Anantpur,2,Taluka2,2,VillageB,16.392151,70.46042
+1,Andhra Pradesh,1,Anantpur,2,Taluka2,3,VillageC,15.974301,80.98915
+1,Andhra Pradesh,1,Anantpur,2,Taluka2,4,VillageD,22.433595,71.211968
+1,Andhra Pradesh,1,Anantpur,3,Taluka3,1,VillageA,20.943635,72.803838
+1,Andhra Pradesh,1,Anantpur,3,Taluka3,2,VillageB,19.067293,75.550402
+1,Andhra Pradesh,1,Anantpur,3,Taluka3,3,VillageC,22.612221,77.484309
+1,Andhra Pradesh,1,Anantpur,3,Taluka3,4,VillageD,21.565217,81.53212
+1,Andhra Pradesh,2,Chittoor,1,Taluka1,1,VillageA,23.486226,75.029618
+1,Andhra Pradesh,2,Chittoor,1,Taluka1,2,VillageB,16.03019,81.487708
+1,Andhra Pradesh,2,Chittoor,1,Taluka1,3,VillageC,22.358437,79.994694
+1,Andhra Pradesh,2,Chittoor,1,Taluka1,4,VillageD,20.445909,78.371327
+1,Andhra Pradesh,2,Chittoor,2,Taluka2,1,VillageA,15.235607,75.387452
+1,Andhra Pradesh,2,Chittoor,2,Taluka2,2,VillageB,20.718837,70.855188
+1,Andhra Pradesh,2,Chittoor,2,Taluka2,3,VillageC,23.833605,74.725861
+1,Andhra Pradesh,2,Chittoor,2,Taluka2,4,VillageD,22.379377,72.229696
+1,Andhra Pradesh,2,Chittoor,3,Taluka3,1,VillageA,17.258947,83.967788
+1,Andhra Pradesh,2,Chittoor,3,Taluka3,2,VillageB,15.933625,84.406366
+1,Andhra Pradesh,2,Chittoor,3,Taluka3,3,VillageC,21.724844,75.899635
+1,Andhra Pradesh,2,Chittoor,3,Taluka3,4,VillageD,19.634213,79.632296
+2,Bihar,1,Patna,1,Taluka1,1,VillageA,18.944816,76.490604
+2,Bihar,1,Patna,1,Taluka1,2,VillageB,23.874705,77.636723
+2,Bihar,1,Patna,1,Taluka1,3,VillageC,18.964379,84.753641
+2,Bihar,1,Patna,1,Taluka1,4,VillageD,19.755997,77.762385
+2,Bihar,1,Patna,2,Taluka2,1,VillageA,20.746081,70.061406
+2,Bihar,1,Patna,2,Taluka2,2,VillageB,22.254538,72.287979
+2,Bihar,1,Patna,2,Taluka2,3,VillageC,21.880132,70.034321
+2,Bihar,1,Patna,2,Taluka2,4,VillageD,21.859037,70.211821
+2,Bihar,1,Patna,3,Taluka3,1,VillageA,15.532879,82.376821
+2,Bihar,1,Patna,3,Taluka3,2,VillageB,21.495187,78.927637
+2,Bihar,1,Patna,3,Taluka3,3,VillageC,18.840127,71.760818
+2,Bihar,1,Patna,3,Taluka3,4,VillageD,22.785727,77.901392
+2,Bihar,2,Gaya,1,Taluka1,1,VillageA,23.326042,72.200726
+2,Bihar,2,Gaya,1,Taluka1,2,VillageB,22.230941,70.546136
+2,Bihar,2,Gaya,1,Taluka1,3,VillageC,21.237485,70.119009
+2,Bihar,2,Gaya,1,Taluka1,4,VillageD,16.399391,74.332385
+2,Bihar,2,Gaya,2,Taluka2,1,VillageA,18.490089,81.398734
+2,Bihar,2,Gaya,2,Taluka2,2,VillageB,21.825748,84.135986
+2,Bihar,2,Gaya,2,Taluka2,3,VillageC,23.917649,76.143503
+2,Bihar,2,Gaya,2,Taluka2,4,VillageD,22.689972,80.776389
+2,Bihar,2,Gaya,3,Taluka3,1,VillageA,15.387836,79.18378
+2,Bihar,2,Gaya,3,Taluka3,2,VillageB,24.14518,75.03287
+2,Bihar,2,Gaya,3,Taluka3,3,VillageC,18.815958,80.499001
+2,Bihar,2,Gaya,3,Taluka3,4,VillageD,23.347517,77.54518
+3,Gujarat,1,Ahmedabad,1,Taluka1,1,VillageA,23.531579,84.321102
+3,Gujarat,1,Ahmedabad,1,Taluka1,2,VillageB,18.729727,82.496481
+3,Gujarat,1,Ahmedabad,1,Taluka1,3,VillageC,24.001413,84.75598
+3,Gujarat,1,Ahmedabad,1,Taluka1,4,VillageD,20.226621,82.981885
+3,Gujarat,1,Ahmedabad,2,Taluka2,1,VillageA,18.70163,70.057692
+3,Gujarat,1,Ahmedabad,2,Taluka2,2,VillageB,15.938845,76.751208
+3,Gujarat,1,Ahmedabad,2,Taluka2,3,VillageC,21.771831,80.099024
+3,Gujarat,1,Ahmedabad,2,Taluka2,4,VillageD,15.624599,80.468795
+3,Gujarat,1,Ahmedabad,3,Taluka3,1,VillageA,16.776639,70.69752
+3,Gujarat,1,Ahmedabad,3,Taluka3,2,VillageB,19.754001,83.601614
+3,Gujarat,1,Ahmedabad,3,Taluka3,3,VillageC,23.57631,72.094039
+3,Gujarat,1,Ahmedabad,3,Taluka3,4,VillageD,18.965596,81.228529
+3,Gujarat,2,Surat,1,Taluka1,1,VillageA,18.424341,83.879177
+3,Gujarat,2,Surat,1,Taluka1,2,VillageB,24.364471,73.366645
+3,Gujarat,2,Surat,1,Taluka1,3,VillageC,18.736825,80.93988
+3,Gujarat,2,Surat,1,Taluka1,4,VillageD,21.415944,73.941308
+3,Gujarat,2,Surat,2,Taluka2,1,VillageA,24.632817,76.3822
+3,Gujarat,2,Surat,2,Taluka2,2,VillageB,19.313414,77.508202
+3,Gujarat,2,Surat,2,Taluka2,3,VillageC,17.318203,79.315283
+3,Gujarat,2,Surat,2,Taluka2,4,VillageD,15.431711,73.100039
+3,Gujarat,2,Surat,3,Taluka3,1,VillageA,16.505553,74.289197
+3,Gujarat,2,Surat,3,Taluka3,2,VillageB,20.720115,83.075147
+3,Gujarat,2,Surat,3,Taluka3,3,VillageC,16.597141,71.911227
+3,Gujarat,2,Surat,3,Taluka3,4,VillageD,18.269975,73.866675
+4,Karnataka,1,Bangalore,1,Taluka1,1,VillageA,18.236339,82.265255
+4,Karnataka,1,Bangalore,1,Taluka1,2,VillageB,24.463609,77.590729
+4,Karnataka,1,Bangalore,1,Taluka1,3,VillageC,24.524732,71.314685
+4,Karnataka,1,Bangalore,1,Taluka1,4,VillageD,17.858349,72.571215
+4,Karnataka,1,Bangalore,2,Taluka2,1,VillageA,15.990867,77.228522
+4,Karnataka,1,Bangalore,2,Taluka2,2,VillageB,19.878749,80.792525
+4,Karnataka,1,Bangalore,2,Taluka2,3,VillageC,24.366518,78.926853
+4,Karnataka,1,Bangalore,2,Taluka2,4,VillageD,18.693049,82.269509
+4,Karnataka,1,Bangalore,3,Taluka3,1,VillageA,22.349855,71.874059
+4,Karnataka,1,Bangalore,3,Taluka3,2,VillageB,17.446236,72.232197
+4,Karnataka,1,Bangalore,3,Taluka3,3,VillageC,22.079692,76.628114
+4,Karnataka,1,Bangalore,3,Taluka3,4,VillageD,17.408759,78.111989
+4,Karnataka,2,Mysore,1,Taluka1,1,VillageA,17.175092,76.016774
+4,Karnataka,2,Mysore,1,Taluka1,2,VillageB,24.898219,72.819659
+4,Karnataka,2,Mysore,1,Taluka1,3,VillageC,18.694477,76.308752
+4,Karnataka,2,Mysore,1,Taluka1,4,VillageD,21.385925,78.832925
+4,Karnataka,2,Mysore,2,Taluka2,1,VillageA,22.0388,72.592455
+4,Karnataka,2,Mysore,2,Taluka2,2,VillageB,24.787315,84.215323
+4,Karnataka,2,Mysore,2,Taluka2,3,VillageC,24.62704,80.786012
+4,Karnataka,2,Mysore,2,Taluka2,4,VillageD,22.416117,72.762641
+4,Karnataka,2,Mysore,3,Taluka3,1,VillageA,17.735824,84.831964
+4,Karnataka,2,Mysore,3,Taluka3,2,VillageB,23.856622,81.16557
+4,Karnataka,2,Mysore,3,Taluka3,3,VillageC,23.58955,81.314451
+4,Karnataka,2,Mysore,3,Taluka3,4,VillageD,23.413089,77.973542
+5,Maharashtra,1,Pune,1,Taluka1,1,VillageA,23.88261,75.110445
+5,Maharashtra,1,Pune,1,Taluka1,2,VillageB,21.098343,84.043493
+5,Maharashtra,1,Pune,1,Taluka1,3,VillageC,19.885207,84.183036
+5,Maharashtra,1,Pune,1,Taluka1,4,VillageD,24.201381,83.005337

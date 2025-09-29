@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Location Distance App</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>Location Distance Checker</h1>
+    <div class="row">
+      <div class="column">
+        <h3>Source</h3>
+        <label>State</label>
+        <select id="src_state"></select>
+        <label>District</label>
+        <select id="src_district"></select>
+        <label>Taluka (optional)</label>
+        <select id="src_taluka"><option value="">-- none --</option></select>
+        <label>Village (optional)</label>
+        <select id="src_village"><option value="">-- none --</option></select>
+      </div>
+
+      <div class="column">
+        <h3>Destination</h3>
+        <label>State</label>
+        <select id="dst_state"></select>
+        <label>District</label>
+        <select id="dst_district"></select>
+        <label>Taluka (optional)</label>
+        <select id="dst_taluka"><option value="">-- none --</option></select>
+        <label>Village (optional)</label>
+        <select id="dst_village"><option value="">-- none --</option></select>
+      </div>
+    </div>
+
+    <div class="actions">
+      <button id="btn_get_distance">Get Distance</button>
+      <button id="btn_show_map">Open Route on Google Maps</button>
+    </div>
+
+    <div class="results">
+      <p>Database distance: <strong id="db_distance">-</strong> km</p>
+      <p>Google Maps distance: <strong id="gmaps_distance">-</strong> km</p>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

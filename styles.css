@@ -1,0 +1,10 @@
+body { font-family: Arial, sans-serif; background:#f7f7f9; color:#222; margin:0; padding:20px; }
+.container { max-width:1000px; margin:0 auto; background:white; padding:20px; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.06); }
+.row { display:flex; gap:20px; }
+.column { flex:1; }
+label { display:block; margin-top:10px; font-size:0.9rem; }
+select { width:100%; padding:8px; margin-top:6px; border-radius:6px; border:1px solid #ccc; }
+.actions { margin-top:18px; display:flex; gap:10px; }
+button { padding:10px 14px; border-radius:8px; border:none; background:#2563eb; color:white; cursor:pointer; }
+button#btn_show_map { background:#10b981; }
+.results { margin-top:16px; background:#f1f5f9; padding:12px; border-radius:6px; }
